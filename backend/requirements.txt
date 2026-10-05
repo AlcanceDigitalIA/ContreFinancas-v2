@@ -1,0 +1,6 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-jose[cryptography]==3.3.0
+bcrypt==4.1.1
+supabase==2.3.5
+groq==0.4.1
